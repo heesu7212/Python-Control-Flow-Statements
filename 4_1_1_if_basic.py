@@ -6,6 +6,7 @@ print(2)
 
 print('---')
 
+# 02
 print(0)
 if False:
     print(1)

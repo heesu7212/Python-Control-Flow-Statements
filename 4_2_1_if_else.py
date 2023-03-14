@@ -5,7 +5,9 @@ if True:
 else:
     print(2)
 print(3)
+
 print('---')
+
 # 023
 print(0)
 if False:

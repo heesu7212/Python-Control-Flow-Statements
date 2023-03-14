@@ -5,10 +5,8 @@ if True:
 else:
     print(2)
 print(3)
-
 print('---')
-
-# 012
+# 023
 print(0)
 if False:
     print(1)
